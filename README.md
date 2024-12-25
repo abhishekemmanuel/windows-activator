@@ -41,5 +41,3 @@
     <figcaption><p align="center">▲ Activate Windows</p></figcaption>
 </figure>
 </p>
-
-
